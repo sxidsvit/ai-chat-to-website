@@ -85,4 +85,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 [linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
 
-##### I can't express how much I have learned from [you](https://chaicode.com/) ! <br> Thanks for the hard and smart work.
+##### I can't express how much I have learned from [you](https://www.youtube.com/@joshtriedcoding/) ! <br> Thanks for the hard and smart work.
