@@ -12,6 +12,12 @@
 - Tailwind CSS
 - [NextUI](https://nextui.org/) - Beautiful, fast and modern React UI library
 
+[SITE](https://ai-chat-to-website-sxidsvit.vercel.app/)
+
+![](demo.gif)
+
+---
+
 ### Core Application Idea 
 
 Retrieval Augmented Generation (RAG) approach has emerged as a powerful technique. RAG combines the strengths of both retrieval-based and generative models, offering a nuanced solution for chatbots. At its core, RAG leverages a retriever to search through a vast amount of data. This retrieved information then augments the generative model's ability to produce accurate responses.
@@ -23,10 +29,6 @@ QStash acts as a middleman between you and an API to guarantee delivery, perform
 ![](diagram.png)
 
 ---
-
-[SITE](https://ai-chat-to-website-sxidsvit.vercel.app/)
-
-![](demo.gif)
 
 ### Tech Stack
 
@@ -73,8 +75,13 @@ UPSTASH_REDIS_REST_TOKEN=
 bun run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project
 
+After http://localhost:3000  add the URL of the site with which you will communicate via the AI ​​bot, for example https://www.nebo.app/ru 
+
+You will have http://localhost:3000/https://www.nebo.app/ru
+
+![](demo.gif)
 
 ---
 
